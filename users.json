@@ -1,4 +1,20 @@
-[
-    { "id": 1, "name": "John Doe", "email": "john@example.com" },
-    { "id": 2, "name": "Jane Smith", "email": "jane@example.com" }
-]
+{
+  "count": 1,
+  "models": [
+    {
+      "_id": "664eda01a248a24b24fb7d5d",
+      "contractNumber": "1000317110002261",
+      "nextactionDate": "2024-05-24 00:00:00",
+      "ptpAmount": 0,
+      "resultCode": "PTP",
+      "status": "ACTIVE",
+      "username": "tester",
+      "contracts": {
+        "customerName": "ANHTEST10",
+        "householdStreet": "1---",
+        "phoneNumber": "0123456987",
+        "overdueAmount": 0
+      }
+    }
+  ]
+}
